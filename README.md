@@ -29,3 +29,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EdielsonSolidade&repo=Search-CEP-Brazil&theme=radical)](https://github.com/EdielsonSolidade/Search-CEP-Brazil)
 
 
+## 🐍 Snake eating my contributions
+
+![snake gif](https://github.com/EdielsonSolidade/EdielsonSolidade/blob/output/github-contribution-grid-snake.svg)
