@@ -8,5 +8,5 @@
 
 
 ## Meu ultimo projeto ✅<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EdielsonSolidade&repo=Search-CEP-Brazil
+[![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=EdielsonSolidade&repo=Search-CEP-Brazil](https://github.com/EdielsonSolidade/Search-CEP-Brazil)
 )](https://github.com/EdielsonSolidade/github-readme-stats)
