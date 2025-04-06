@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # todos os dias à meia-noite
+    - cron: "0 0 * * *"
   push:
     branches:
       - main
