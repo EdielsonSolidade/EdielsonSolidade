@@ -7,6 +7,7 @@
 [![Edielson Solidade GitHub stats](https://github-readme-stats.vercel.app/api?username=EdielsonSolidade&show_icons=true&theme=radical)](https://github.com/EdielsonSolidade/github-readme-stats)
 
 
-## Meu ultimo projeto ✅<br>
-[![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=EdielsonSolidade&repo=Search-CEP-Brazil](https://github.com/EdielsonSolidade/Search-CEP-Brazil)
-)](https://github.com/EdielsonSolidade/github-readme-stats)
+## 🧩 Latest Project
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EdielsonSolidade&Search-CEP-Brazil=&theme=radical)](https://github.com/EdielsonSolidade/Search-CEP-Brazil)
+
