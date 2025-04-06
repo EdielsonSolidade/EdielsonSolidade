@@ -9,5 +9,6 @@
 
 ## 🧩 Latest Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EdielsonSolidade&Search-CEP-Brazil=&theme=radical)](https://github.com/EdielsonSolidade/Search-CEP-Brazil)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EdielsonSolidade&repo=Search-CEP-Brazil&theme=radical)](https://github.com/EdielsonSolidade/Search-CEP-Brazil)
+
 
