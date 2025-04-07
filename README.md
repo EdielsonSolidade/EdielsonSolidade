@@ -1,8 +1,8 @@
 ## Eai pessoal 👋
-- 🔭Atualmente Trabalhando: Apenas estudando, em busca do primeiro emprego na área de dev.
-- 🌱Atualmente Estudando: React | Js | HTML | CSS
-- 💬Sobre mim: 22 Anos, 2 Anos aproximadamente estudando na área de programação. Antes era apenas hobby, agora quero trabalhar na área.
-- ⚡Sobre meu GitHub: Espero poder ajudar você em algum projeto meu. Fique a vontade para olhar... ^^
+- 🔭Atualmente: Estou me profissionalizando. Em busca do primeiro emprego na área de dev.
+- 🌱Atualmente Estudando: React | TypeScript | JavaScript
+- 💬Sobre mim: 2 Anos na Área. comecei como um hobbie mas acabei gostando muito de escrever codigo.
+- ⚡Sobre meu GitHub: Vão ter varios tipos de Projetos aqui. De projetos complexos a projetos simples.
 
 [![Edielson Solidade GitHub stats](https://github-readme-stats.vercel.app/api?username=EdielsonSolidade&show_icons=true&theme=radical)](https://github.com/EdielsonSolidade/github-readme-stats)
 
