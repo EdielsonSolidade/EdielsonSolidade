@@ -31,6 +31,7 @@
 
 ## 🐍 Snake eating my contributions
 
-![snake gif](https://github.com/EdielsonSolidade/EdielsonSolidade/blob/output/github-contribution-grid-snake-radical.svg)
+![Snake animation](https://raw.githubusercontent.com/EdielsonSolidade/EdielsonSolidade/output/github-contribution-grid-snake-radical.svg)
+
 
 
