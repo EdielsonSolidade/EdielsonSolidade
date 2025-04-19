@@ -6,12 +6,18 @@ Sou o Edielson, um entusiasta da programação que começou por hobby e acabou s
 Front-end: JavaScript | React | TypeScript <br>
 Back-End: C++ | Node.js
 
-### 🚀 Sobre meu GitHub:
+## 🚀 Sobre meu GitHub:
 Aqui você vai encontrar de tudo: projetos simples, desafios, apps completos e muito aprendizado no caminho!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EdielsonSolidade&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdielsonSolidade&layout=compact&theme=radical" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EdielsonSolidade&show_icons=true&theme=midnight-purple" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdielsonSolidade&layout=compact&theme=midnight-purple" width="42%" />
+  
+</div>
+<br>
+<div align = "center">
+ <a href="https://git.io/streak-stats">
+   <img src="https://streak-stats.demolab.com/?user=EdielsonSolidade&theme=bear&background=000&border=30A3DC&dates=FFF" />
 </div>
 
 
