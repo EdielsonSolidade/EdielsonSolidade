@@ -4,7 +4,7 @@ Sou o Edielson, um entusiasta da programação que começou por hobby e acabou s
 
 ### 👨‍💻 Atualmente estudando:
 Front-end: JavaScript | React | TypeScript <br>
-Back-End: C++ | Node.js
+Back-End: C# | Node.js
 
 ## 🚀 Sobre meu GitHub:
 Aqui você vai encontrar de tudo: projetos simples, desafios, apps completos e muito aprendizado no caminho!
