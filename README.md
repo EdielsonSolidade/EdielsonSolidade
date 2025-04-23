@@ -14,12 +14,11 @@ Aqui você vai encontrar de tudo: projetos simples, desafios, apps completos e m
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdielsonSolidade&layout=compact&theme=midnight-purple" width="42%" />
   
 </div>
-<br>
+<!-- <br>
 <div align = "center">
  <a href="https://git.io/streak-stats">
    <img src="https://streak-stats.demolab.com/?user=EdielsonSolidade&theme=bear&background=000&border=30A3DC&dates=FFF" />
-</div>
-
+</div> -->
 
 ## 🛠️ Tech Stack
 
